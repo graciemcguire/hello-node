@@ -1,0 +1,101 @@
+Mod 5 MVP pitches
+
+Noam
+  - as a user i can sign up/log in and see stories, fragments (like a notes app), i can see plot arcs and characters etc for stories
+  - edit and delete account
+  - CRUD stories
+
+Ali
+  - ecommerce / streaming / imdb ecommerce
+  - as a user i can CRU on myself
+  - as a user i can add/delete from my favorites and my cart
+  - hopefully has 2 api's working by EOD
+
+Rob
+  - as a user login/sign up
+  - as a user i can create event, and invite other users
+  - using yelp api
+  - self referential between users
+
+Jamal
+  - as a user i can login/sign up as customer or admin
+  - add/remove things to cart
+  - as an admin i can add products
+
+Austin
+  - i can login/sign up as customer or admin
+  - full CRUD on account
+  - as a user i can vote and comment on a thing
+  - as an admin i have an admin panel that shows traffic, page, user data
+
+Emirhan
+  - as a user i can see all products before log in
+  - as a user i can sign up /login
+  - as a user i can have a wishlist and cart
+  - full CRUD on wishlist and cart
+  - all products rendered on page
+
+Pavel
+  - as a user i can sign up /login
+  - as a user i can submit test results
+  - as a user i can see a list of all test results, as well as a graph/diagram on how results have changed over time
+  - as a user i can see what pharmacies or community centers are around me based on current location and search around for other ones in nyc
+  - getting all data from nyc open data, google maps
+
+Jacky
+  - as a user i can search all players, see their stats rendered into tables
+  - i can compare 2 players
+  - i can search all teams and see team stats and season
+  - can compare 2 teams
+
+John Speck
+  - using google places api
+  - as a user i can see which beaches are near me
+  - i can see a map of the beach i select from the list
+  - i can add a beach to my favorites
+  - i can review a beach
+
+Ethan
+  - as a user i can sign up /login
+  - as a user i can see users in my area and users with similar interests (recommended users)
+  - i can see my friends and start a chat with any other user
+  - i can see my own user page as well as any other user's
+  - i can also search other users by age, location, gender, interest
+  - import google calendar (for some reason)
+
+Oneil
+  - as a user i can sign up /login as either an agent or tenant
+  - as a agent i can create listings, open houses on listings, CRUD account, view listings they have
+  - as a tenant i can create viewings, CRUD account, leave a review on a rental, and leave a review on an agent
+  - a viewing cant be accepted until both parties have accepted
+  - all users can send each other messages
+
+Aibek
+  - google maps api
+  - as a user i can login/sign up
+  - as a user i can see a list of all the events
+  - as a user i can create an event
+  - as a user i can add and remove my favorites
+
+Gabriel
+  - using yelp api
+  - as a user i can see all restaurants based on searched location
+  - as a user i can read all reviews on that restaurant
+  - as a logged in user i have full CRUD on my own reviews, and can read other user's reviews
+
+Alex
+  - as a user i can login/sign up
+  - can follow other users
+  - as a user i can add many cars
+  - i can follow other users
+  - each car has a show page any user can see
+  - car show page can be edited by owner
+  - full CRUD on users and user cars
+
+Gaida
+  - coin market cap api
+  - as a user i can sign in/ log in to buy things, but not browse
+  - as a logged in user i can purchase coins
+  - as a logged in user i can see my coin balance
+  - as a logged in user i can trade my coins
+  - as a logged in user i can follow a coin
